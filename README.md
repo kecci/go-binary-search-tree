@@ -1,7 +1,5 @@
 # binary search tree (BST) in go
 
-- 
-
 ## Definitions
 binary tree is 
 - tree data structure
